@@ -1,6 +1,6 @@
 const SCALE_START = {
     super: {
-        rank: E('1e10101010010101'),
+        rank: E('1e1e10101010010101'),
 		tier: E('1e1e1e1e1e102021'),
 		tetr: E('1e1e1e1e1e102021'),
 		pent: E('1e1e1e1e1e102021'),
